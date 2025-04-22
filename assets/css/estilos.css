@@ -11,7 +11,10 @@
     background-color: #28A745 ;
 }
 
+.container {
+    font-family: "Reboto", sans-serif;
 
+}
 
 
 .text {
@@ -50,7 +53,8 @@
     font-family: "Reboto", sans-serif;
     padding-top: 30px;
     text-align: left; 
-    padding-left: 35px;
+    padding-left: 40px;
+    padding-bottom: 30px;
 }
 
 .cards {
@@ -104,12 +108,17 @@
     padding-top: 100px;
 }
 
+.boton {
+    padding-top: 20px;
+}
+
 
 .bg-color {
     background-color: #17A2B8;
 }
 .footer {
-    background-color: #E83E8C;
+    text-align: center;
+    padding: 5px;
 }
 
 
